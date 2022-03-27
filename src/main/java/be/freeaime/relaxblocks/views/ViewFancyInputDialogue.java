@@ -4,9 +4,9 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-26 22:18:47
  */
-package com.freeaime.relaxblocks.views;
+package be.freeaime.relaxblocks.views;
 
-import com.freeaime.relaxblocks.interfaces.GenericCallBack;
+import be.freeaime.relaxblocks.interfaces.GenericCallBack;
 
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;

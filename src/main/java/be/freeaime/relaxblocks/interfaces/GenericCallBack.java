@@ -4,7 +4,7 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-27 12:04:37
  */
-package com.freeaime.relaxblocks.interfaces;
+package be.freeaime.relaxblocks.interfaces;
 
 public interface GenericCallBack {
     void callBack(String message);

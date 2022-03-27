@@ -4,10 +4,10 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-26 21:54:42
  */
-package com.freeaime.relaxblocks.views;
+package be.freeaime.relaxblocks.views;
 
-import com.freeaime.relaxblocks.interfaces.ClickCallBack;
-import com.freeaime.relaxblocks.models.Coordinate;
+import be.freeaime.relaxblocks.interfaces.ClickCallBack;
+import be.freeaime.relaxblocks.models.Coordinate;
 
 import javafx.scene.control.Button;
 

@@ -4,10 +4,10 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-26 17:51:23
  */
-package com.freeaime.relaxblocks.views;
+package be.freeaime.relaxblocks.views;
 
-import com.freeaime.relaxblocks.interfaces.ClickCallBack;
-import com.freeaime.relaxblocks.models.Grid;
+import be.freeaime.relaxblocks.interfaces.ClickCallBack;
+import be.freeaime.relaxblocks.models.Grid;
 
 import javafx.geometry.Pos;
 import javafx.scene.layout.GridPane;

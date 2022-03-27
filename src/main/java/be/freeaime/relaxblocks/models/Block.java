@@ -4,7 +4,7 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-25 08:43:56
  */
-package com.freeaime.relaxblocks.models;
+package be.freeaime.relaxblocks.models;
 
 public class Block {
     private int type;

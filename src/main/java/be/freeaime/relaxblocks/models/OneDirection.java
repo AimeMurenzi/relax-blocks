@@ -4,7 +4,7 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-27 12:06:35
  */
-package com.freeaime.relaxblocks.models;
+package be.freeaime.relaxblocks.models;
 /**
  * used for nightmare mode
  */

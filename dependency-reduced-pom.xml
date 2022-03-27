@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.freeaime</groupId>
+  <groupId>be.freeaime</groupId>
   <artifactId>relaxblocks</artifactId>
   <version>0.0.1</version>
   <build>
@@ -12,7 +12,7 @@
         <artifactId>javafx-maven-plugin</artifactId>
         <version>0.0.8</version>
         <configuration>
-          <mainClass>com.freeaime.relaxblocks.RelaxBlocks</mainClass>
+          <mainClass>be.freeaime.relaxblocks.RelaxBlocks</mainClass>
         </configuration>
       </plugin>
       <plugin>
@@ -27,7 +27,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.freeaime.relaxblocks.RelaxBlocks</mainClass>
+                  <mainClass>be.freeaime.relaxblocks.RelaxBlocks</mainClass>
                 </transformer>
               </transformers>
             </configuration>
@@ -44,4 +44,3 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
 </project>
-

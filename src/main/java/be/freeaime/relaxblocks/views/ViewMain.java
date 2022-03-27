@@ -4,11 +4,11 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-26 21:51:40
  */
-package com.freeaime.relaxblocks.views;
+package be.freeaime.relaxblocks.views;
 
-import com.freeaime.relaxblocks.logic.Game;
-import com.freeaime.relaxblocks.models.Block;
-import com.freeaime.relaxblocks.models.Grid;
+import be.freeaime.relaxblocks.logic.Game;
+import be.freeaime.relaxblocks.models.Block;
+import be.freeaime.relaxblocks.models.Grid;
 
 public class ViewMain {
     private static void consoleDisplay(Grid grid) {

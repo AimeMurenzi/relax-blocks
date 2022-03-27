@@ -4,7 +4,7 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-27 11:31:23
  */
-package com.freeaime.relaxblocks.interfaces;
+package be.freeaime.relaxblocks.interfaces;
 
 public interface ClickCallBack {
     

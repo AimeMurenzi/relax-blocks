@@ -4,7 +4,7 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-27 12:05:25
  */
-package com.freeaime.relaxblocks.models;
+package be.freeaime.relaxblocks.models;
 
 public class Coordinate {
     private final int row;

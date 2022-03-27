@@ -4,15 +4,15 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-26 14:57:45
  */
-package com.freeaime.relaxblocks;
+package be.freeaime.relaxblocks;
 
 import java.util.Scanner;
 
-import com.freeaime.relaxblocks.logic.Game;
-import com.freeaime.relaxblocks.models.Grid;
-import com.freeaime.relaxblocks.models.Level;
-import com.freeaime.relaxblocks.views.ViewDesktop;
-import com.freeaime.relaxblocks.views.ViewMain;
+import be.freeaime.relaxblocks.logic.Game;
+import be.freeaime.relaxblocks.models.Grid;
+import be.freeaime.relaxblocks.models.Level;
+import be.freeaime.relaxblocks.views.ViewDesktop;
+import be.freeaime.relaxblocks.views.ViewMain;
 
 import javafx.application.Platform;
 

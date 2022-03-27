@@ -2,16 +2,16 @@
  * @Author: Aimé
  * @Date:   2022-03-26 19:08:11
  * @Last Modified by:   Aimé
- * @Last Modified time: 2022-03-27 01:52:12
+ * @Last Modified time: 2022-03-27 17:03:21
  */
-package com.freeaime.relaxblocks.views;
+package be.freeaime.relaxblocks.views;
 
 import static java.lang.System.exit;
 
-import com.freeaime.relaxblocks.interfaces.ClickCallBack;
-import com.freeaime.relaxblocks.logic.Game;
-import com.freeaime.relaxblocks.models.Grid;
-import com.freeaime.relaxblocks.models.Score;
+import be.freeaime.relaxblocks.interfaces.ClickCallBack;
+import be.freeaime.relaxblocks.logic.Game;
+import be.freeaime.relaxblocks.models.Grid;
+import be.freeaime.relaxblocks.models.Score;
 
 import javafx.application.Application;
 import javafx.application.Platform;

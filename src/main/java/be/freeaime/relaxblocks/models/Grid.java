@@ -4,7 +4,7 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-26 13:06:21
  */
-package com.freeaime.relaxblocks.models;
+package be.freeaime.relaxblocks.models;
 
 import java.util.Random;
 

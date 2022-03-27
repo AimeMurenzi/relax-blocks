@@ -4,11 +4,11 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-27 01:05:25
  */
-package com.freeaime.relaxblocks.views;
+package be.freeaime.relaxblocks.views;
 
 import java.util.List;
 
-import com.freeaime.relaxblocks.models.Score;
+import be.freeaime.relaxblocks.models.Score;
 
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;

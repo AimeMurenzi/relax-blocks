@@ -4,7 +4,7 @@
  * @Last Modified by:   Aimé
  * @Last Modified time: 2022-03-27 00:56:56
  */
-package com.freeaime.relaxblocks.logic;
+package be.freeaime.relaxblocks.logic;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -18,12 +18,12 @@ import java.util.List;
 import java.util.Set;
 import java.util.Stack;
 
-import com.freeaime.relaxblocks.models.Block;
-import com.freeaime.relaxblocks.models.Coordinate;
-import com.freeaime.relaxblocks.models.Grid;
-import com.freeaime.relaxblocks.models.Level;
-import com.freeaime.relaxblocks.models.OneDirection;
-import com.freeaime.relaxblocks.models.Score;
+import be.freeaime.relaxblocks.models.Block;
+import be.freeaime.relaxblocks.models.Coordinate;
+import be.freeaime.relaxblocks.models.Grid;
+import be.freeaime.relaxblocks.models.Level;
+import be.freeaime.relaxblocks.models.OneDirection;
+import be.freeaime.relaxblocks.models.Score;
 
 public class Game {
 
