@@ -1,0 +1,60 @@
+/**
+ * @Author: Aimé
+ * @Date:   2022-03-26 14:29:05
+ * @Last Modified by:   Aimé
+ * @Last Modified time: 2022-03-26 20:54:39
+ */
+
+/*========================================== GENERAL UI ===========================================*/ 
+.root {
+  -fx-font-size: 12pt;
+  -fx-font-family: "Courier New"; 
+  -fx-base: #151929;
+  /* -fx-background: #151929; */
+  -fx-background: #2a346654;  
+  -fx-font-weight: bold;
+
+}
+ 
+.button,
+.label,
+.tab-label
+{
+    -fx-text-fill: rgb(128, 141, 203); 
+} 
+.glyph-icon{
+  -fx-fill: #ff6ebd; 
+}
+.toggle-button .glyph-icon{ 
+  -fx-fill:#b30062;
+}
+.toggle-button:selected .glyph-icon{ 
+  -fx-fill:#ff6ebd;
+}
+.button {
+  -fx-base: #2d355f;  
+}
+.GridPane{
+  -fx-background-color: #232943;
+}
+.block-x,
+.block-o,
+.block-plus,
+.block-empty
+{-fx-background-radius: 0, 0, 0, 0;}
+.block-empty{
+  -fx-base: #00000077;
+  -fx-background:#00000077; 
+}
+.block-plus{
+  -fx-base: #b30000;
+  -fx-background:#b30000;
+}
+.block-x{
+  -fx-base: #2c46d8;
+  -fx-background:#2c46d8;
+}
+.block-o{
+  -fx-base: #cc9c00;
+  -fx-background:#cc9c00;
+}
